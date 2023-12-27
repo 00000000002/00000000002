@@ -20,9 +20,9 @@
 
 </div>
 
-![头像](stw.png)
+![头像](Stw.png)
 
-![Visitor Count]
+[Visitor Count]
 
 ![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)
 
