@@ -20,7 +20,7 @@
 
 </div>
 
-![头像](Stw.png)
+![](Stw.png)
 
 [Visitor Count]
 
