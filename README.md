@@ -1,3 +1,5 @@
+<img align="center" height="auto" src="https://i.waifu.pics/_J9_Lfv.gif"/>
+
 - 👋 Hi, I’m @00000000002
 - 👀 I’m interested in ...U
 - 🌱 I’m currently learning ...FPGA
